@@ -1,0 +1,4 @@
+20210921 12:20:48 FATAL [main] logging.LoggingDemo LoggingDemo.java27 - This is fatal
+20210921 12:20:48 WARN  [main] logging.LoggingDemo LoggingDemo.java28 - This is the warn level
+20210921 12:20:48 INFO  [main] logging.LoggingDemo LoggingDemo.java29 - This is the info level
+20210921 12:20:48 WARN  [main] logging.LoggingDemo LoggingDemo.java37 - This is the info level
